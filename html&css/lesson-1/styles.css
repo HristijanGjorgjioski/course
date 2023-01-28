@@ -1,0 +1,17 @@
+del { color: red; }
+body { background-color: greenyellow; }
+
+b {
+    color: white;
+    font-size: 25px;
+    font-family: verdana;
+}
+
+#prvDiv {
+    background-color: black;
+}
+
+.div-2 {
+    background-color: blue;
+    margin-top: 20px;
+}
