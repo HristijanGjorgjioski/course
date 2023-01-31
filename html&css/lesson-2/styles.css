@@ -1,0 +1,44 @@
+.title {
+    color: greenyellow;
+    font-size: 42px;
+    text-align: center;
+    margin: 10px;
+}
+
+.table1,
+.table1 th,
+.table1 td {
+    border: 1px solid blueviolet;
+}
+
+.table1 th,
+.table1 td {
+    padding: 12px;
+}
+
+.table1 .highlighted {
+    background-color: green;
+    font-weight: 700;
+    color: azure;
+}
+
+.table2 {
+    margin-top: 30px;
+    width: 100%;
+}
+
+.table2,
+.table2 th,
+.table2 td {
+    border: 2px dotted red;
+}
+
+.table2 th,
+.table2 td {
+    padding: 24px;
+}
+
+.table2 .highlighted {
+    background-color: yellow;
+    font-weight: bold;
+}

@@ -1,0 +1,23 @@
+.container {
+    height: 500px;
+    display: flex;
+    background-color: aquamarine;
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+    flex-flow: row nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.container div {
+    padding: 40px;
+    width: 22%;
+    background-color: red;
+    margin: 10px;
+}
+
+.div1 {
+    /* flex-grow: 3; */
+    /* flex-basis: 100px; */
+    flex-shrink: 0;
+}
